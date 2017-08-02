@@ -1,5 +1,5 @@
 <?php
 
-   echo "Como programar PHP Ricardo?";
+   echo "Olá Mundo";
 
 ?>
